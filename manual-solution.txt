@@ -1,0 +1,20 @@
+base_hourly_rate = 2000
+hours_worked = 5
+
+Salary = 2000 * 5 = 10000
+
+hours_worked = 40 
+salary = 40 * 2000 = 80000 
+
+hours_worked = 41
+bonus_for_worked_after_40 =  100 per hour 
+salary = 41 * 2000 + 100 = 82100
+
+hours_worked = 50
+salary =  50 * 2000 + (10 * 100) = 101000
+
+hours_worked = 51 
+salary = ?? 
+
+hours_worked = 0 
+salary = ?? 
